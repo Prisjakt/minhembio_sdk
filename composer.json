@@ -1,0 +1,11 @@
+{
+    "name": "minhembio/sdk",
+    "description": "The main Prisjakt/PriceSpy site",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Prisjakt",
+            "email": "dev@prisjakt.nu"
+        }
+    ]
+}
